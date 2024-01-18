@@ -12,6 +12,7 @@ Take 3 promising candidates and run a phylogenetic analysis on the predicted pro
 
 ## Experiments
 Extracted the contigs using seqkit and then formed assembly using SoapDenevo. Then utilised Augustus to generate related protein sequence and with help of blastp identified most matching protein sequence and formed a phylogenetic tree with MEGA software.
+![alt text]([https://github.iu.edu/cs-b657-sp2023/rsantha-srmhalgi-chravi-varulnu-a1/blob/d11aa78662e133f184df80c742f6f6048ec99a48/part0/noisy_pichu.png](https://github.com/rakesh09111996/phylogenetic-analysis-predicted-proteins/blob/4f4fbdbab3ddb3f540a7f41af21bc86afe07256a/phylogenetic%20tree.png))
 
 ## Observation
 Based on results of assembly:
