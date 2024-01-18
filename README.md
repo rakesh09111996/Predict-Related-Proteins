@@ -10,6 +10,9 @@ Annotate your original contig using the Augustus (web-based) gene prediction too
 Evaluate the predicted gene models using blastp against known proteins (are there any good matches?)
 Take 3 promising candidates and run a phylogenetic analysis on the predicted proteins; interpret your results
 
+## Experiments
+Extracted the contigs using seqkit and then formed assembly using SoapDenevo. Then utilised Augustus to generate related protein sequence and with help of blastp identified most matching protein sequence and formed a phylogenetic tree with MEGA software.
+
 ## Observation
 Based on results of assembly:
 Analyzing the parameters of the tools used to maximize our understanding of the tools and apply to the different requirements of analysis of genomes.
