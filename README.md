@@ -1,4 +1,4 @@
-# phylogenetic-analysis-predicted-proteins
+# Phylogenetic-analysis-predicted-proteins
 ## Problem statement
 Prepare an apptainer definition file to be used to build an apptainer sif image that holds all the software and scripts you need to make your project reproducible.
 get locust genome DNA from NCBI, link https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_000516895.1/Links to an external site.
